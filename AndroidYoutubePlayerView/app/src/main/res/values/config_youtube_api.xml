@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Note  	 SHA1: A4:E5:B3:0C:28:8D:EF:2B:CE:98:AB:38:A1:E5:36:86:85:00:11:C1 -->
+    <string name="developer_key_youtube">AIzaSyBvndygk6fI7DwaRaXXskgnJVzvq_XqQbw</string>
+    <string name="url_video_youtube_test">https://www.youtube.com/watch?v=-xwKQa9Tm5k</string>
+</resources>
